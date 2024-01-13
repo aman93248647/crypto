@@ -1,0 +1,31 @@
+MONGO_URI="mongodb+srv://crypto:Un2cu1BbXqcmKRcT@cluster0.4cjeyro.mongodb.net/?retryWrites=true&w=majority"
+JWT_SECRET="Ydfsrtgfrdfge5dfgrdtydtfhdfgd45gdrf"
+
+whiteListedExtensions=['.apng', '.avif', '.gif', '.jpg', '.jpeg', '.jfif', '.pjpeg', '.pjp', '.png', '.svg', '.pdf', '.webm', '.mkv', '.flv', '.vob', '.ogg', '.ogv', '.gif', '.mov', '.wmv', '.3gp', '.mp4', '.m4p', '.m4v', '.mp3', '.wav']
+
+URL='https://api.profxgroups.com/'
+
+MAILGUN_BASE_URL='https://api.eu.mailgun.net/'
+MAILGUN_DOMAIN=<YOUR_MAILGUN_DOMAIN>
+MAILGUN_API_KEY=<YOUR_MAILGUN_API_KEY>
+SENDER_MAIL = <YOUR_SENDER_MAIL>
+
+ENCRYPTION_KEY='Ydfsrtgfrdfge5dfgrdtydtfhdfgd45gdrf'
+
+SUPER_ADMIN_NAME="Crypto Wallet Super Admin"
+SUPER_ADMIN_EMAIL="admin@gmail.com" # you can change your email
+SUPER_ADMIN_PASSWORD="123456789" # you can change your password
+
+STREAM_ID="a3c702f9-5a94-4f00-acdf-21a2567c69d5"
+MORALIS_API_KEY="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJub25jZSI6ImU3NTZkNDVlLTJiNmEtNDMzZi05NjI2LWRiMzE0MjlmZmFiMSIsIm9yZ0lkIjoiMzcyMDE1IiwidXNlcklkIjoiMzgyMzIyIiwidHlwZUlkIjoiNzNjNmQ4NjktNmFlZC00MjQyLTg5NTctMTQ3NDc2Yjk4YTg4IiwidHlwZSI6IlBST0pFQ1QiLCJpYXQiOjE3MDUxMjQxMTksImV4cCI6NDg2MDg4NDExOX0.8B_eCr6WxjkwxZPVsRTk3KXhpinSIE2X75SfHQ72FCY"
+IS_INSERT_COINS="true"
+
+EVM_HOT_WALLET="0x7302c337d75a260ad2c55d45b526be63ede84003"
+TRON_HOT_WALLET="TMPC72STWjCxHkSBqVLFHkc9mE7drKX2Za"
+BTC_HOT_WALLET="18kHk51YPPMMzy8KUdHVJKWzGjSYf7MtBi"
+
+EVM_HOT_WALLET_KEY="621bd7d4ed729ff0ddf518d3605e97d3e38c8a46c3de53f986afde0b99fe16eb"
+TRON_HOT_WALLET_KEY="F7E8A8CA24D71BD4C4B125B6203A5F5381BBAD41DBB375C183C027743FD85984"
+BTC_HOT_WALLET_KEY="L5hvhuiLmfesKsXgHDECgThUtChRbfqCirue7AGSZCiNV8DLm7HU"
+
+COINGECKO_API_URL = "https://api.coingecko.com/api/v3/"
